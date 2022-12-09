@@ -4,7 +4,7 @@
 
 [Computer Science](https://computerscience.unicam.it/) - University of Camerino [Unicam](https://www.unicam.it/).
 
-Group project
+Group project DekketScris - DKS
 * Federico Maria Cruciani, as, Fedcmm
 * Alessia Enrica Mele, as, [@Kathleen24](https://github.com/Kathleen24)
 * Simone Cisca, as, [@SpaceCowboyS01](https://github.com/SpaceCowboyS01)
