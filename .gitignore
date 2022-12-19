@@ -18,7 +18,7 @@ lib/generated_plugin_registrant.dart
 
 ### Visual Paradigm ###
 *.tmp.nlogo
-*.vpp.bak_*
+*.vpp.*
 
 # Android related
 **/android/**/gradle-wrapper.jar
